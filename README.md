@@ -6,7 +6,11 @@
 
 ###
 
-📩 Conéctate conmigo en <a href="[[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/nicol%C3%A1s-villanueva-amolef-b077101a9)" target="_blank](https://www.linkedin.com/in/nicol%C3%A1s-villanueva-amolef-b077101a9)">LinkedIn</a>.
+<h2 align="left">Contacto</h2>
+
+###
+
+📩 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-villanueva-amolef-b077101a9).
 
 <h2 align="left">Yo uso</h2>
 
