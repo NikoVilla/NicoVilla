@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Nicolás Villanuevay soy Ingeniero Civil en Informática, con experiencia en desarrollo de software y tecnologías IoMT.</p>
+<p align="left">Mi nombre es Nicolás Villanuevay soy Ingeniero Civil en Informática, con experiencia en desarrollo de software y tecnologías IoT y IoMT.</p>
 
 ###
 
